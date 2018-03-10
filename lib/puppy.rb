@@ -9,7 +9,7 @@ class Puppy
   end
 
   def speak
-    "#{name} says 'arf!'"
+    "#{name} says 'woof!'"
   end
 
   def to_s
